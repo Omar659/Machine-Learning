@@ -1,2 +1,2 @@
-# Machine-Learning
+# Machine Learning
 Some machine learning problems solved
