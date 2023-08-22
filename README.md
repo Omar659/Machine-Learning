@@ -1,5 +1,5 @@
 # Machine Learning
-Some machine learning problems solved
+Some machine learning problems solved from the course of Machine Learning at "La Sapienza University of Rome"
 
 ## HW1
 Find bug in the codes
